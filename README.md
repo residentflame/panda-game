@@ -5,6 +5,10 @@ This is the Panda shooter from Sheepolution's How to LÖVE [series](https://shee
 1. Download the zip file in the [releases](https://github.com/residentflame/panda-game/releases/tag/version1.0) tab.
 2. Extract the zip file to your desired location.
 3. Open "panda.exe"
+
 # How to play
 Use the left and right arrows to control the panda and shoot the alien by pressing the space key!
 
+# Credits
+- Sheepolution
+- Sheepolution's builder script that I modified to now use Lua version 11.5.
